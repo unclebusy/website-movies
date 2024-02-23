@@ -11,6 +11,4 @@ React, React Hooks, Async/Await request, Fetch API
 git clone git@github.com:unclebusy/website-movies.git
 cd website-movies
 npm install
-npm ci
-npm link
 ```
