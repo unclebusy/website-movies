@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c935f5d-a9bb-4717-96c7-705cf03927fe" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2bew31WzPPOHM0SBqyfgEmAqkvJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/unclebusy/projects/website-movies",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "wsl://Ubuntu@/usr/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "\\\\wsl$\\Ubuntu\\home\\unclebusy\\projects\\website-movies\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\unclebusy\projects\website-movies" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c935f5d-a9bb-4717-96c7-705cf03927fe" name="Changes" comment="" />
+      <created>1706588649187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706588649187</updated>
+      <workItem from="1706588650467" duration="409000" />
+      <workItem from="1706589127154" duration="2736000" />
+      <workItem from="1706617786469" duration="385000" />
+      <workItem from="1706618183163" duration="303000" />
+      <workItem from="1706618497979" duration="772000" />
+      <workItem from="1706619287807" duration="3178000" />
+      <workItem from="1706629855254" duration="4265000" />
+      <workItem from="1706635506362" duration="652000" />
+      <workItem from="1706673812761" duration="8309000" />
+      <workItem from="1706792603564" duration="975000" />
+      <workItem from="1707190684776" duration="9000" />
+      <workItem from="1708001860396" duration="62000" />
+      <workItem from="1708316915667" duration="5003000" />
+      <workItem from="1708343889586" duration="1933000" />
+      <workItem from="1708352668574" duration="66000" />
+      <workItem from="1708352745540" duration="326000" />
+      <workItem from="1708432482750" duration="3013000" />
+      <workItem from="1708435815399" duration="70000" />
+      <workItem from="1708436118653" duration="1611000" />
+      <workItem from="1708437756484" duration="1404000" />
+      <workItem from="1708439305879" duration="609000" />
+      <workItem from="1708525921956" duration="113000" />
+      <workItem from="1708607329834" duration="681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
