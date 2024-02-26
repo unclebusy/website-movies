@@ -1,5 +1,5 @@
 # Demonstration
-[![Превью](https://i.vimeocdn.com/video/1045671949_640.jpg)](https://player.vimeo.com/video/916699208)
+[![Превью](https://ibb.co/fDc1Xnt)](https://player.vimeo.com/video/916699208)
 
 ## Description
 A website application built on React, with which you can search for films and TV series from the database with the possibility of subsequent filtering
