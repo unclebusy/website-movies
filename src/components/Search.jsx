@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
+import RadioInput from "./RadioInput";
 
 function Search(props) {
   const { updateSearchResult = Function.prototype } = props;
@@ -45,40 +46,13 @@ function Search(props) {
       </div>
       <div>
         <label htmlFor="all">
-          <input
-            className="with-gap"
-            id="all"
-            name="type"
-            type="radio"
-            data-type="all"
-            onChange={handleFilterChange}
-            checked={type === 'all'}
-          />
-          <span>All</span>
+          <RadioInput id="all" type="all" handleFilterChange={handleFilterChange} checked={type === 'all'} />
         </label>
         <label htmlFor="movie">
-          <input
-            className="with-gap"
-            id="movie"
-            name="type"
-            type="radio"
-            data-type="movie"
-            onChange={handleFilterChange}
-            checked={type === 'movie'}
-          />
-          <span>Movies only</span>
+          <RadioInput id="movie" type="movie" handleFilterChange={handleFilterChange} checked={type === 'movie'} />
         </label>
         <label htmlFor="series">
-          <input
-            className="with-gap"
-            id="series"
-            name="type"
-            type="radio"
-            data-type="series"
-            onChange={handleFilterChange}
-            checked={type === 'series'}
-          />
-          <span>Series only</span>
+          <RadioInput id="series" type="series" handleFilterChange={handleFilterChange} checked={type === 'series'} />
         </label>
       </div>
     </div>
