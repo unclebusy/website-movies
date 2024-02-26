@@ -1,10 +1,7 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect } from 'react';
 import Movies from '../components/Movies';
 import Preloader from '../components/Preloader';
 import Search from '../components/Search';
-// import Movies from './components/Movies.jsx';
-// import Preloader from './components/Preloader';
-// import Search from './components/Search';
 
 const API_KEY = process.env.REACT_APP_API_KEY;
 
@@ -38,11 +35,12 @@ function Main() {
   }, []);
 
   return (
-    <main className="content container">
-      <Search updateSearchResult={updateSearchResult} />
-      {loading ? <Preloader /> : <Movies movies={movies} />}
-    </main>
+      <main className="content container">
+        <Search updateSearchResult={updateSearchResult} />
+        {loading ? <Preloader /> : <Movies movies={movies} />}
+      </main>
   );
 }
 
 export default Main;
+
