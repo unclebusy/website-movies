@@ -1,7 +1,6 @@
 # Demonstration
 ![Website with movies on React](https://player.vimeo.com/video/916699208?badge=0&autopause=0&player_id=0&app_id=58479)
 
-
 ## Description
 A website application built on React, with which you can search for films and TV series from the database with the possibility of subsequent filtering
 
@@ -13,3 +12,4 @@ React, React Hooks, Async/Await request, Fetch API
 git clone git@github.com:unclebusy/website-movies.git
 cd website-movies
 npm install
+```
