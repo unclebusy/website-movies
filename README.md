@@ -1,5 +1,3 @@
-## Tests
-
 ## Demonstration
 Click on the image to see how it works
 
