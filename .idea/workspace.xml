@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5c935f5d-a9bb-4717-96c7-705cf03927fe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +53,15 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu\home\unclebusy\projects\website-movies" />
@@ -103,6 +114,11 @@
       <workItem from="1708948988075" duration="2050000" />
       <workItem from="1708951388023" duration="4944000" />
       <workItem from="1708966197941" duration="346000" />
+      <workItem from="1709097744142" duration="63000" />
+      <workItem from="1709118810064" duration="337000" />
+      <workItem from="1709128193031" duration="258000" />
+      <workItem from="1712736259537" duration="485000" />
+      <workItem from="1712736756621" duration="667000" />
     </task>
     <servers />
   </component>
