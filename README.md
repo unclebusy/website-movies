@@ -2,7 +2,7 @@
 A website application built on React, with which you can search for films and TV series from the database with the possibility of subsequent filtering
 
 ## Use stack
-CSS, JS, React, Redux, Axios, Material-UI, ESLint, Prettier, Husky, Lodash
+CSS, JS, React, Redux, Axios, Material-UI, ESLint, Prettier, Lodash
 
 ## Installation
 ```sh
