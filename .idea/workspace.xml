@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c935f5d-a9bb-4717-96c7-705cf03927fe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Movie.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Movie.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Movies.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Movies.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Preloader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Preloader.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/RadioInput.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RadioInput.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Search.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/website-movies.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +34,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/unclebusy/projects/website-movies",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/unclebusy/projects/website-recipes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -137,7 +129,7 @@
       <workItem from="1712736259537" duration="485000" />
       <workItem from="1712736756621" duration="1311000" />
       <workItem from="1712743673052" duration="24000" />
-      <workItem from="1722693202526" duration="953000" />
+      <workItem from="1722693202526" duration="1416000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,6 @@
 # Website with movies on React
 
-![Alt text](https://i.ibb.co/Xs7YgNs/Screenshot-1.png)
+![Project picture](https://i.ibb.co/Xs7YgNs/Screenshot-1.png)
 
 ## Description
 
