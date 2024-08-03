@@ -1,3 +1,6 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+
 function RadioInput({ id, type, handleFilterChange, checked }) {
   return (
       <label htmlFor={id}>
@@ -14,5 +17,12 @@ function RadioInput({ id, type, handleFilterChange, checked }) {
       </label>
   );
 }
+
+RadioInput.propTypes = {
+  id: PropTypes.string.isRequired,
+  type: PropTypes.string.isRequired,
+  handleFilterChange: PropTypes.func.isRequired,
+  checked: PropTypes.bool.isRequired,
+};
 
 export default RadioInput;

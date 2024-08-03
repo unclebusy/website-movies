@@ -13,11 +13,7 @@ function Main() {
     try {
       const response = await fetch(url);
       const data = await response.json();
-      if (data.Response === 'True') {
-        setMovies(data.Search);
-      } else {
-        setMovies([]);
-      }
+      setMovies(data.Response === 'True' ? data.Search : []);
     } catch (error) {
       console.error('Error fetching movies:', error);
     } finally {
@@ -43,4 +39,3 @@ function Main() {
 }
 
 export default Main;
-
