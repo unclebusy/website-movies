@@ -9,11 +9,11 @@ This project is a website where users can search for movies, view their informat
 ## Technology Stack
 
 - React
-- MaterializeCSS
-- OMDb API
 - JavaScript (ES6+)
 - HTML5
 - CSS3
+- Materialize CSS
+- OMDb API
 
 ## Installation and Usage
 
